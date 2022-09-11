@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { Route } from "react-router-dom";
-import Weather from "./Weather";
+import Weather from "./Weather.css";
 
 export default class App extends Component {
   render() {
